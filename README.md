@@ -1,2 +1,1 @@
-# putgrub_layout
-layout
+
